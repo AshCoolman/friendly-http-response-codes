@@ -1,0 +1,1 @@
+# friendly-http-response-codes
